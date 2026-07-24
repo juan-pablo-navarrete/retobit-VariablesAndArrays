@@ -26,7 +26,7 @@ public class VariablesAndArrays {
         // Tu código aquí
         boolean isActive = true;
         // Sustituye el false por tu variable
-        return true;
+        return isActive;
     }
 
     /**
